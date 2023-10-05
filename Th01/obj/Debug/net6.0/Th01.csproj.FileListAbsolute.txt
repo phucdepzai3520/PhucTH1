@@ -1,0 +1,41 @@
+C:\Users\trana\source\repos\Th01\Th01\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trana\source\repos\Th01\Th01\bin\Debug\net6.0\appsettings.json
+C:\Users\trana\source\repos\Th01\Th01\bin\Debug\net6.0\Th01.staticwebassets.runtime.json
+C:\Users\trana\source\repos\Th01\Th01\bin\Debug\net6.0\Th01.exe
+C:\Users\trana\source\repos\Th01\Th01\bin\Debug\net6.0\Th01.deps.json
+C:\Users\trana\source\repos\Th01\Th01\bin\Debug\net6.0\Th01.runtimeconfig.json
+C:\Users\trana\source\repos\Th01\Th01\bin\Debug\net6.0\Th01.dll
+C:\Users\trana\source\repos\Th01\Th01\bin\Debug\net6.0\Th01.pdb
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\Th01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\Th01.AssemblyInfoInputs.cache
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\Th01.AssemblyInfo.cs
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\Th01.csproj.CoreCompileInputs.cache
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\Th01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\Th01.RazorAssemblyInfo.cache
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\Th01.RazorAssemblyInfo.cs
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\staticwebassets\msbuild.Th01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\staticwebassets\msbuild.build.Th01.props
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Th01.props
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Th01.props
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\scopedcss\bundle\Th01.styles.css
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\scopedcss\projectbundle\Th01.bundle.scp.css
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\Th01.dll
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\refint\Th01.dll
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\Th01.pdb
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\Th01.genruntimeconfig.cache
+C:\Users\trana\source\repos\Th01\Th01\obj\Debug\net6.0\ref\Th01.dll
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\TH01.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\TH01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\TH01.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\TH01.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\TH01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\TH01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\TH01.RazorAssemblyInfo.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\TH01.RazorAssemblyInfo.cs
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\TH01.dll
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\refint\TH01.dll
+C:\Users\ASUS\Documents\Zalo Received Files\Th01\TH01\obj\Debug\net6.0\TH01.pdb
